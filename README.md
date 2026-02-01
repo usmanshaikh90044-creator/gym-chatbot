@@ -9,6 +9,7 @@ An NLP-powered fitness chatbot that recommends gym and home workout exercises ba
 🔗 **https://gym-chatbot-fzbbhk25dgu9jyzembwscr.streamlit.app/**
 
 ---
+![Gym Chatbot Screenshot](./screenshot.png)
 
 
 ---
